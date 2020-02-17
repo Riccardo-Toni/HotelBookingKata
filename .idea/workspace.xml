@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e525894f-df7a-4f79-b20f-f5444d77a242" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xkt4XE1eXHCDmxCDFT3nXFNfNc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="hotelkata.hotel" />
+      <recent name="hotelkata.exception" />
+      <recent name="" />
+      <recent name="hotelkata" />
+      <recent name="hotel-kata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HotelShould">
+    <configuration name="AcceptanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HotelKata" />
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AcceptanceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in HotelKata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HotelKata" />
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingServiceShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HotelKata" />
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingServiceShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelServiceShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HotelKata" />
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HotelServiceShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HotelKata" />
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HotelShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HotelShould" />
+        <item itemvalue="JUnit.All in HotelKata" />
+        <item itemvalue="JUnit.HotelServiceShould" />
+        <item itemvalue="JUnit.AcceptanceTest" />
+        <item itemvalue="JUnit.BookingServiceShould" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e525894f-df7a-4f79-b20f-f5444d77a242" name="Default Changelist" comment="" />
+      <created>1581601729937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581601729937</updated>
+      <workItem from="1581601733980" duration="1683000" />
+      <workItem from="1581603978680" duration="10208000" />
+      <workItem from="1581674328110" duration="8226000" />
+      <workItem from="1581935583175" duration="8932000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1680" y="-610" key="#Plugins" timestamp="1581603960994">
+      <screen x="-2560" y="-985" width="2560" height="1417" />
+    </state>
+    <state x="-1680" y="-610" key="#Plugins/0.23.1280.777/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581603960994" />
+    <state x="2160" y="-444" key="#Project_Structure" timestamp="1581676985960">
+      <screen x="1280" y="-819" width="2560" height="1417" />
+    </state>
+    <state x="2160" y="-444" key="#Project_Structure/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581676985960" />
+    <state x="-1680" y="-610" key="#Project_Structure/0.23.1280.777/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581602992277" />
+    <state x="-1467" y="-552" key="#com.intellij.ide.util.MemberChooser" timestamp="1581613996880">
+      <screen x="-2560" y="-985" width="2560" height="1417" />
+    </state>
+    <state x="-1467" y="-552" key="#com.intellij.ide.util.MemberChooser/0.23.1280.722/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581613996880" />
+    <state x="2298" y="-325" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1581681242722">
+      <screen x="1280" y="-819" width="2560" height="1417" />
+    </state>
+    <state x="2298" y="-325" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581681242722" />
+    <state x="-1723" y="-842" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581613807125">
+      <screen x="-2560" y="-985" width="2560" height="1417" />
+    </state>
+    <state x="-1723" y="-842" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.722/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581613807125" />
+    <state width="2518" height="286" key="GridCell.Tab.0.bottom" timestamp="1581950521442">
+      <screen x="1280" y="-617" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.bottom/0.23.1280.722/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581614482097" />
+    <state width="2518" height="286" key="GridCell.Tab.0.bottom/0.23.1280.722/1280.-617.2560.1417@1280.-617.2560.1417" timestamp="1581950521442" />
+    <state width="2518" height="286" key="GridCell.Tab.0.bottom/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581941293336" />
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1581685904546" />
+    <state width="2518" height="286" key="GridCell.Tab.0.center" timestamp="1581950521441">
+      <screen x="1280" y="-617" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.center/0.23.1280.722/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581614482097" />
+    <state width="2518" height="286" key="GridCell.Tab.0.center/0.23.1280.722/1280.-617.2560.1417@1280.-617.2560.1417" timestamp="1581950521441" />
+    <state width="2518" height="286" key="GridCell.Tab.0.center/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581941293335" />
+    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1581685904546" />
+    <state width="2518" height="286" key="GridCell.Tab.0.left" timestamp="1581950521440">
+      <screen x="1280" y="-617" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.left/0.23.1280.722/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581614482097" />
+    <state width="2518" height="286" key="GridCell.Tab.0.left/0.23.1280.722/1280.-617.2560.1417@1280.-617.2560.1417" timestamp="1581950521440" />
+    <state width="2518" height="286" key="GridCell.Tab.0.left/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581941293334" />
+    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1581685904545" />
+    <state width="2518" height="286" key="GridCell.Tab.0.right" timestamp="1581950521441">
+      <screen x="1280" y="-617" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.right/0.23.1280.722/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581614482097" />
+    <state width="2518" height="286" key="GridCell.Tab.0.right/0.23.1280.722/1280.-617.2560.1417@1280.-617.2560.1417" timestamp="1581950521441" />
+    <state width="2518" height="286" key="GridCell.Tab.0.right/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581941293336" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1581685904546" />
+    <state x="2069" y="-472" key="SettingsEditor" timestamp="1581677033590">
+      <screen x="1280" y="-819" width="2560" height="1417" />
+    </state>
+    <state x="-1771" y="-638" key="SettingsEditor/0.23.1280.722/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581609918193" />
+    <state x="2069" y="-472" key="SettingsEditor/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581677033590" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1581947643388">
+      <screen x="1280" y="-617" width="2560" height="1417" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1280.722/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581613553547" />
+    <state width="500" height="445" key="SwitcherDM/0.23.1280.722/1280.-617.2560.1417@1280.-617.2560.1417" timestamp="1581947643388" />
+    <state width="500" height="445" key="SwitcherDM/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581940029530" />
+    <state x="2298" y="-148" key="extract.method.dialog" timestamp="1581949039426">
+      <screen x="1280" y="-617" width="2560" height="1417" />
+    </state>
+    <state x="2298" y="-148" key="extract.method.dialog/0.23.1280.722/1280.-617.2560.1417@1280.-617.2560.1417" timestamp="1581949039426" />
+    <state x="2298" y="-350" key="extract.method.dialog/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581937523429" />
+    <state width="888" height="366" key="javadoc.popup.new" timestamp="1581950313254">
+      <screen x="1280" y="-617" width="2560" height="1417" />
+    </state>
+    <state width="888" height="366" key="javadoc.popup.new/0.23.1280.722/1280.-617.2560.1417@1280.-617.2560.1417" timestamp="1581950313254" />
+    <state width="888" height="366" key="javadoc.popup.new/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581938965233" />
+    <state x="2322" y="-485" key="refactoring.ChangeSignatureDialog" timestamp="1581681270725">
+      <screen x="1280" y="-819" width="2560" height="1417" />
+    </state>
+    <state x="2322" y="-485" key="refactoring.ChangeSignatureDialog/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581681270725" />
+    <state x="2225" y="-494" width="670" height="676" key="search.everywhere.popup" timestamp="1581677015958">
+      <screen x="1280" y="-819" width="2560" height="1417" />
+    </state>
+    <state x="-1615" y="-660" width="670" height="676" key="search.everywhere.popup/0.23.1280.722/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581609984609" />
+    <state x="2225" y="-494" width="670" height="676" key="search.everywhere.popup/0.23.1280.722/1280.-819.2560.1417@1280.-819.2560.1417" timestamp="1581677015958" />
+    <state x="-1615" y="-660" width="670" height="676" key="search.everywhere.popup/0.23.1280.777/-2560.-985.2560.1417@-2560.-985.2560.1417" timestamp="1581603946170" />
+  </component>
+</project>
